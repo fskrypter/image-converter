@@ -4,3 +4,5 @@ PCX, BMP and PNG file operations include:
  - convert from one type to another;
  - slice the image;
  - compress the image (PNG or PCX).
+ 
+ Written in C but has object-oriented-ish model, so works slower than it could.
