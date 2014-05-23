@@ -1,0 +1,6 @@
+A simple image converter.
+
+PCX, BMP and PNG file operations include:
+ - convert from one type to another;
+ - slice the image;
+ - compress the image (PNG or PCX).
